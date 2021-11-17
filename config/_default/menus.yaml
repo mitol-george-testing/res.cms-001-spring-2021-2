@@ -1,0 +1,14 @@
+leftnav:
+- identifier: c7e93a18-e1d5-9f56-75b3-073340e84472
+  name: Sample Syllabus
+  url: /pages/syllabus/
+  weight: 10
+- identifier: 745af33f-fb92-87ea-6ec9-91738469d9e0
+  name: Sample Readings
+  parent: c7e93a18-e1d5-9f56-75b3-073340e84472
+  url: /pages/syllabus/sample-readings
+  weight: 20
+- identifier: 69aad9e7-fb4b-a2bf-d1ba-e62d4e389183
+  name: Bibliography
+  url: /pages/additional-resources
+  weight: 30
